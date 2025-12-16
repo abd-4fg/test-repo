@@ -1,2 +1,1 @@
-main thisisedited
-main thisisedited again boi
+edited the readme of main
