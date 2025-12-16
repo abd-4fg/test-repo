@@ -1,2 +1,1 @@
-anotherone thisisedited
-anotherone thisisedited again ok
+edited the readme of anotherone
